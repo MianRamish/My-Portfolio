@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.59633889.css",
-    "main.js": "/static/js/main.9df5d545.js",
+    "main.js": "/static/js/main.754b58b4.js",
     "static/media/ecommerce.png": "/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/resume.pdf": "/static/media/resume.b0b20b62af2954045753.pdf",
     "static/media/sidebar.png": "/static/media/sidebar.b2225070b8adae68d063.png",
@@ -11,6 +11,7 @@
     "static/media/hoc.png": "/static/media/hoc.e6af51fc04c57ae67096.png",
     "static/media/amazon.png": "/static/media/amazon.0902478042bfde8f5578.png",
     "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/Shopify.png": "/static/media/Shopify.8367bb60367b246d5967.png",
     "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
     "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
     "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
@@ -19,10 +20,10 @@
     "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/index.html",
     "main.59633889.css.map": "/static/css/main.59633889.css.map",
-    "main.9df5d545.js.map": "/static/js/main.9df5d545.js.map"
+    "main.754b58b4.js.map": "/static/js/main.754b58b4.js.map"
   },
   "entrypoints": [
     "static/css/main.59633889.css",
-    "static/js/main.9df5d545.js"
+    "static/js/main.754b58b4.js"
   ]
 }
