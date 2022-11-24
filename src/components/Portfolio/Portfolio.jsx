@@ -4,7 +4,9 @@ import { Swiper, SwiperSlide } from "swiper/react"
 import "swiper/css";
 import Sidebar from "../../img/sidebar.png";
 import Ecommerce from "../../img/ecommerce.png";
+import Alsayyed from "../../img/alsayyed.png";
 import HOC from "../../img/hoc.png";
+import Gym from '../../img/gym.png';
 import MusicApp from "../../img/musicapp.png";
 import { themeContext } from "../../Context";
 const Portfolio = () => {
@@ -30,11 +32,18 @@ const Portfolio = () => {
           <img src={Ecommerce} alt="" height={600}/>
         </SwiperSlide>
         <SwiperSlide>
+          <img src={Alsayyed} alt="" height={600}/>
+        </SwiperSlide>
+        <SwiperSlide>
           <img src={MusicApp} alt="" height={600}/>
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={Gym} alt="" height={600} />
         </SwiperSlide>
         <SwiperSlide>
           <img src={HOC} alt="" height={300} />
         </SwiperSlide>
+        
       </Swiper>
     </div>
   );

@@ -27,7 +27,12 @@ function App() {
       <Experience />
       <Works />
       <Portfolio />
-      <Testimonial />
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+
       <Contact />
       <Footer />
     </div>
