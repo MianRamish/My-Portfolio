@@ -1,6 +1,5 @@
 import React, { useContext, useRef, useState } from "react";
 import "./Contact.css";
-import emailjs from "emailjs-com"
 import { themeContext } from "../../Context";
 const Contact = () => {
   const theme = useContext(themeContext);
